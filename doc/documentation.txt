@@ -1,0 +1,13 @@
+1. Menu nawigacyjne: nav.menu>ul>li.menu-item*6>a{link}
+
+2. Sekcja o mnie: section#about.container>h2{O mnie}+p{Lorem}*3
+
+3. Sekcja portfolio: section#portfolio.container>h2{Portfolio}+figure.portfolio-item{item}*4
+
+4. Pasek z buttonem: aside.container>button{Zadzwoń}
+
+5. Stopka: footer#contact.container>address{ul. Mostowa 6/13}+form>input
+
+6. Dodanie kodu Google Analitycs - https://gist.github.com/Pominova/cf7884e7418f6ebfa412d2d3dc472a97
+
+7. Ustawienie artybutu lang w tagu html na "pl" oraz zmiana tytułu na "Wspólny projekt"
