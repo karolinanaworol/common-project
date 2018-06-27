@@ -1,4 +1,4 @@
-1. Menu nawigacyjne: nav.menu>ul>li.menu-item*6>a{link}
+﻿1. Menu nawigacyjne: nav.menu>ul>li.menu-item*6>a{link} - Emilia Guzik
 
 2. Sekcja o mnie: section#about.container>h2{O mnie}+p{Lorem}*3
 
