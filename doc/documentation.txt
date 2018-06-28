@@ -2,7 +2,7 @@
 
 2. Sekcja o mnie: section#about.container>h2{O mnie}+p{Lorem}*2+footer{stopka} - Sylwester Szydło
 
-3. Sekcja portfolio: section#portfolio.container>h2{Portfolio}+figure.portfolio-item{item}*4
+3. Sekcja portfolio: section#portfolio.container>h2{Portfolio}+figure.portfolio-item{item}*4 - Agnieszka Wojciechowska
 
 4. Pasek z buttonem: aside.container>button{Zadzwoń}
 
