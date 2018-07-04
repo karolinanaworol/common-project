@@ -4,7 +4,7 @@
 
 3. Sekcja portfolio: section#portfolio.container>h2{Portfolio}+figure.portfolio-item{item}*4 - Agnieszka Wojciechowska
 
-4. Pasek z buttonem: aside.container>button{Zadzwoń}
+4. Pasek z buttonem: aside.container>button{Zadzwoń} - Dorian
 
 5. Stopka: footer#contact.container>address{ul. Mostowa 6/13}+form>input
 
